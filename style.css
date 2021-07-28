@@ -4,7 +4,7 @@ body{
     padding: 0px;
 }
 #header-part{
-    height: 100px;
+    height: 90px;
     background-color: #c4b7ae;
 }
 .logo{
@@ -15,7 +15,7 @@ body{
 
 }
 .logo img{
-    margin-top: 15px;
+    margin-top: 10px;
 	height: 50px;
 	width: 50px;
 	border: 2px solid red;
@@ -36,7 +36,7 @@ body{
 .nav-bar ul li a{
     text-decoration: none;
     color: black;
-    font-size: 30px;
+    font-size: 20px;
 }
 .nav-bar ul li a:hover{
     color: chocolate;
@@ -46,7 +46,7 @@ body{
     margin-bottom: 20px;
 }
 h1{
-    font-size: 60px;
+    font-size: 45px;
     color: #575757;
     font-weight: 700;
 }
@@ -58,7 +58,7 @@ p{
     color: #FBA24F;
 }
 .half-width{
-    margin-top:5%;
+    margin-top:3%;
     width: 45%;
     padding-left: 3%;
     margin-left: 5%;
