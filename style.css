@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+#header-part{
+    height: 100px;
+    background-color: #c4b7ae;
+}
+.logo{
+	width: 25%;
+	float: left;
+	margin-top: 10px;
+	padding-left: 20px;
+
+}
+.logo img{
+    margin-top: 15px;
+	height: 50px;
+	width: 50px;
+	border: 2px solid red;
+
+}
+
+.nav-bar{
+    float: right;
+}
+.nav-bar ul{
+    list-style: none;
+}
+.nav-bar ul li{
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10px;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.nav-bar ul li a:hover{
+    color: chocolate;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 60px;
+    color: #575757;
+    font-weight: 700;
+}
+p{
+    color: #828282;
+
+}
+.text-color{
+    color: #FBA24F;
+}
+.half-width{
+    margin-top:5%;
+    width: 45%;
+    padding-left: 3%;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.Button{
+    text-decoration: none;
+    border-radius: 100px;
+    padding: 10px 20px;
+    color: white;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+
+}
+.About-area{
+    background-image: url("images/Frame 59.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.Aming-part{
+    margin: 0px 300px 0px 300px;
+    text-align: center;
+    padding: 40px;
+}
+h2{
+    color: #575757;
+}
+.third-width{
+    width: 28%;
+    box-shadow: 5px 5px 30px gray;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 20px;
+}
+.third-width img{
+    width: 100%;
+}
+.Follow-part{
+    box-shadow: 5px 5px 30px gray;
+    border-radius: 20px;
+    margin: 3%;
+}
+.one-width{
+    width: 28%;
+    margin-left: 5%;
+    padding: 3%;
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+}
+.Network-part{
+    text-align: center;
+    background-color: black;
+    padding: 50px;
+}
+footer{
+    text-align: center;
+}
